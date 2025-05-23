@@ -4,6 +4,8 @@
 # React
 ### Estructura 
 ![image](https://github.com/user-attachments/assets/6627893d-b532-4b38-84f8-a84e6189281f)
+### Conexion front con back desplegado en azure
+![image](https://github.com/user-attachments/assets/2bce0abd-7707-4717-83e6-116cc9ac8083)
 
 ### Creamos el proyecto con spring init
 ![image](https://github.com/user-attachments/assets/fc2dc607-304d-4ee0-853a-38cf05179841)
