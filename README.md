@@ -2,6 +2,8 @@
 # Grupo 2 
 
 # React
+### Estructura 
+![image](https://github.com/user-attachments/assets/6627893d-b532-4b38-84f8-a84e6189281f)
 
 ### Creamos el proyecto con spring init
 ![image](https://github.com/user-attachments/assets/fc2dc607-304d-4ee0-853a-38cf05179841)
